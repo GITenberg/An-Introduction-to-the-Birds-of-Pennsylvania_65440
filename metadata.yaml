@@ -1,5 +1,8 @@
 _repo: An-Introduction-to-the-Birds-of-Pennsylvania_65440
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65440-h/images/cover.jpg
 creator:
   author:
     agent_name: Sutton, George Miksch
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53347
     wikipedia: https://en.wikipedia.org/wiki/George_Miksch_Sutton
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65440#An-Introduction-to-the-Birds-of-Pennsylvania
 gutenberg_issued: '2021-05-24'
 gutenberg_type: Text
 identifiers:
