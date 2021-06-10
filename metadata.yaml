@@ -1,0 +1,26 @@
+_repo: An-Introduction-to-the-Birds-of-Pennsylvania_65440
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sutton, George Miksch
+    birthdate: 1898
+    deathdate: 1982
+    gutenberg_agent_id: '53347'
+    url: http://www.gutenberg.org/2009/agents/53347
+    wikipedia: https://en.wikipedia.org/wiki/George_Miksch_Sutton
+description: Illustrated by the author.
+gutenberg_issued: '2021-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65440'
+  lccn: '29005287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- Pennsylvania'
+- !lcc 'QL'
+- GITenberg
+title: An Introduction to the Birds of Pennsylvania
+url: http://www.gutenberg.org/ebooks/65440
